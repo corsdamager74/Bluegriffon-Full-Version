@@ -239,3 +239,6 @@ This repository serves as the official landing page for BlueGriffon. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of BlueGriffon today!**
+
+---
+**Last updated:** 2026-09-07 22:26:01 UTC
