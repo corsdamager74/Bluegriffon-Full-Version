@@ -241,4 +241,4 @@ This repository serves as the official landing page for BlueGriffon. The softwar
 **Get the most recent version of BlueGriffon today!**
 
 ---
-**Last updated:** 2026-10-02 18:51:50 UTC
+**Last updated:** 2026-10-02 22:44:13 UTC
